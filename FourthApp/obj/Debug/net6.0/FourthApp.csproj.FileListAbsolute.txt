@@ -1,0 +1,15 @@
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.csproj.AssemblyReference.cache
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.AssemblyInfoInputs.cache
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.AssemblyInfo.cs
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.csproj.CoreCompileInputs.cache
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\bin\Debug\net6.0\FourthApp.exe
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\bin\Debug\net6.0\FourthApp.deps.json
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\bin\Debug\net6.0\FourthApp.runtimeconfig.json
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\bin\Debug\net6.0\FourthApp.dll
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\bin\Debug\net6.0\FourthApp.pdb
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.dll
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\refint\FourthApp.dll
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.pdb
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\FourthApp.genruntimeconfig.cache
+C:\Users\fraubrook\Desktop\С# homework\FirstSeminar\FourthApp\obj\Debug\net6.0\ref\FourthApp.dll
