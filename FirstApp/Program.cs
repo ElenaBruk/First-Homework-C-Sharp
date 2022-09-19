@@ -9,9 +9,11 @@ if (a > b)
     Console.WriteLine("Минимальное число: " + b);
 }
 else
-Console.WriteLine("Максимальное число " + b);
-Console.WriteLine("Минимальное число " + a);
-if (a==b)
+{
+    Console.WriteLine("Максимальное число " + b);
+    Console.WriteLine("Минимальное число " + a);
+}
+if (a == b)
 {
     Console.WriteLine("Числа равны");
 }

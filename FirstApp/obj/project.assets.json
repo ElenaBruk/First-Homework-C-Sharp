@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fraubrook\\Desktop\\С# homework\\FirstSeminar\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "D:\\2.FRAUBROOK\\Новая папка\\C#\\С# homework\\FirstSeminar\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\fraubrook\\Desktop\\С# homework\\FirstSeminar\\FirstApp\\FirstApp.csproj",
+      "projectPath": "D:\\2.FRAUBROOK\\Новая папка\\C#\\С# homework\\FirstSeminar\\FirstApp\\FirstApp.csproj",
       "packagesPath": "C:\\Users\\fraubrook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fraubrook\\Desktop\\С# homework\\FirstSeminar\\FirstApp\\obj\\",
+      "outputPath": "D:\\2.FRAUBROOK\\Новая папка\\C#\\С# homework\\FirstSeminar\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fraubrook\\AppData\\Roaming\\NuGet\\NuGet.Config"
